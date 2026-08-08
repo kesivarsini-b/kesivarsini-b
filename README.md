@@ -96,7 +96,7 @@ My long-term goal is to build a technology company that creates products capable
 
 #  Featured Projects
 
-## 📈 AI Stock Market Analysis
+##  AI Stock Market Analysis
 A complete stock market analysis system built using Python, MySQL, Machine Learning and Streamlit.
 
 **Tech Stack**
@@ -109,7 +109,7 @@ A complete stock market analysis system built using Python, MySQL, Machine Learn
 
 ---
 
-## 🛡 AI-Powered Cybersecurity Career Platform
+##  AI-Powered Cybersecurity Career Platform
 An AI platform that evaluates cybersecurity skills, generates adaptive assessments, and provides explainable feedback.
 
 Features include:
@@ -175,15 +175,11 @@ A repository containing Java programs covering:
 
 ---
 
-# 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kesivarsini-b&theme=algolia&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=kesivarsini-b&theme=algolia&no-frame=true&no-bg=true&column=7" />
 </p>
-
----
 
 #  Connect With Me
 
