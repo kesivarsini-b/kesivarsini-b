@@ -24,20 +24,20 @@ My long-term goal is to build a technology company that creates products capable
 
 ---
 
-#  Currently Working On
+# 🚀 Currently Working On
 
--  AI & Machine Learning
--  Data Science
--  Cybersecurity Projects
--  Java & Object-Oriented Programming
--  Database Management Systems
--  Python Development
--  Full Stack Development
--  Building Portfolio Projects
+- 🤖 AI & Machine Learning
+- 📊 Data Science
+- 🔐 Cybersecurity Projects
+- ☕ Java & Object-Oriented Programming
+- 🗄 Database Management Systems
+- 🐍 Python Development
+- 🌐 Full Stack Development
+- ⚡ Building Portfolio Projects
 
 ---
 
-#  Current Goals
+# 🎯 Current Goals
 
 - Build strong AI & ML projects
 - Master Data Structures & Algorithms
@@ -50,7 +50,7 @@ My long-term goal is to build a technology company that creates products capable
 
 ---
 
-#  Languages & Technologies
+# 🛠 Languages & Technologies
 
 ### Programming
 
@@ -94,9 +94,9 @@ My long-term goal is to build a technology company that creates products capable
 
 ---
 
-#  Featured Projects
+# 📂 Featured Projects
 
-##  AI Stock Market Analysis
+## 📈 AI Stock Market Analysis
 A complete stock market analysis system built using Python, MySQL, Machine Learning and Streamlit.
 
 **Tech Stack**
@@ -109,7 +109,7 @@ A complete stock market analysis system built using Python, MySQL, Machine Learn
 
 ---
 
-##  AI-Powered Cybersecurity Career Platform
+## 🛡 AI-Powered Cybersecurity Career Platform
 An AI platform that evaluates cybersecurity skills, generates adaptive assessments, and provides explainable feedback.
 
 Features include:
@@ -122,12 +122,12 @@ Features include:
 
 ---
 
-##  Metro Train Scheduling Database
+## 🚇 Metro Train Scheduling Database
 Database Management System project implementing relational models, SQL queries, and scheduling operations.
 
 ---
 
-##  Java Programming Collection
+## ☕ Java Programming Collection
 A repository containing Java programs covering:
 
 - OOP
@@ -140,7 +140,7 @@ A repository containing Java programs covering:
 
 ---
 
-#  Currently Learning
+# 🌱 Currently Learning
 
 - Artificial Intelligence
 - Machine Learning
@@ -153,7 +153,7 @@ A repository containing Java programs covering:
 
 ---
 
-#  GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -175,19 +175,23 @@ A repository containing Java programs covering:
 
 ---
 
-### 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=kesivarsini-b&theme=algolia&no-frame=true&no-bg=true&column=7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=kesivarsini-b&theme=algolia&row=1&column=7"/>
+
 </p>
 
-#  Connect With Me
+---
+
+# 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kesivarsini-b)
 
 ---
 
-#  Quote
+# 💭 Quote
 
 > "Learning never exhausts the mind. Every project is one step closer to creating technology that makes a difference."
 
@@ -195,7 +199,7 @@ A repository containing Java programs covering:
 
 <div align="center">
 
-###  Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
 
