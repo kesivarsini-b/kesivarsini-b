@@ -4,11 +4,11 @@
 
 <p align="center">
 
-<b>Building intelligent systems that solve real-world problems.</b>
+<b>Building practical systems at the intersection of AI, security & software.</b>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+%7C+Cybersecurity+%7C+Data+Science;Building+projects%2C+not+just+learning.;Turning+ideas+into+working+systems.;Always+learning.+Always+building." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Cybersecurity+%7C+Software+Engineering;Building+real+systems%2C+not+just+demos.;From+ideas+to+working+products.;Learn.+Build.+Break.+Improve." alt="Typing Animation" />
 
 </p>
 
@@ -20,23 +20,21 @@
 <tr>
 <td width="50%">
 
-### 🛡️ PWNDORA SkillScan
+### 🧠 Omni-Prompt
 
-AI-powered cybersecurity skill assessment focused on identifying skill gaps and evaluating candidates based on role requirements.
+A local-first browser extension for saving, searching, tagging and exporting AI prompts & responses across **ChatGPT, Claude and Gemini**.
 
-**Focus:**  
-`AI` `Cybersecurity` `Skill Assessment`
+`React` `TypeScript` `Plasmo` `Tailwind` `Chrome MV3`
 
 </td>
 
 <td width="50%">
 
-### 📈 AI Stock Market Analytics
+### 🛡️ PWNDORA SkillScan
 
-Data-driven stock market analysis using machine learning, financial data and database integration.
+Adaptive cybersecurity skill assessment that analyzes ability, identifies skill gaps and generates personalized learning paths.
 
-**Focus:**  
-`Python` `ML` `MySQL` `Pandas`
+`AI/ML` `Cybersecurity` `FastAPI` `React` `PostgreSQL`
 
 </td>
 </tr>
@@ -46,10 +44,9 @@ Data-driven stock market analysis using machine learning, financial data and dat
 
 ### 🔐 Variant Analysis
 
-Cybersecurity-focused analysis and experimentation exploring practical security concepts through software.
+Security-focused analysis exploring software variants through experimentation, notebooks, testing and results analysis.
 
-**Focus:**  
-`Python` `Cybersecurity` `Analysis`
+`Python` `Security` `Testing` `Analysis`
 
 </td>
 
@@ -57,10 +54,9 @@ Cybersecurity-focused analysis and experimentation exploring practical security 
 
 ### 🌐 Developer Portfolio
 
-A continuously evolving space for my projects, experiments, technical work and learning journey.
+My personal engineering space for showcasing projects, experiments and technical work.
 
-**Focus:**  
-`Web` `Projects` `Documentation`
+`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
@@ -71,17 +67,117 @@ A continuously evolving space for my projects, experiments, technical work and l
 ## ⚙️ TECH STACK
 
 ```text
-Languages       Python · Java · SQL · TypeScript
+Languages       Python · Java · JavaScript · TypeScript · SQL
 
-AI / ML         Machine Learning · Data Analysis · Scikit-learn
-                Pandas · NumPy
+AI / ML         Machine Learning · Data Analysis
+                Scikit-learn · Pandas · NumPy
 
 Backend         FastAPI · REST APIs · SQLAlchemy
 
-Frontend        React · TypeScript · HTML · CSS
+Frontend        React · TypeScript · HTML · CSS · Tailwind
 
 Databases       MySQL · PostgreSQL
 
-Tools           Git · GitHub · VS Code · Streamlit
+Development     Git · GitHub · VS Code · Docker · Streamlit
 
 Domains         AI/ML · Cybersecurity · Data Science
+```
+
+---
+
+## 🧠 CURRENT FOCUS
+
+```text
+AI / ML                 ███████████████░░░
+Cybersecurity           █████████████░░░░░
+Software Engineering    █████████████░░░░░
+MLOps                   ████████░░░░░░░░░
+```
+
+> Learning by building — understanding the complete path from **data → logic → backend → AI → interface**.
+
+---
+
+## 🔬 HOW I BUILD
+
+```text
+Problem
+   ↓
+Research
+   ↓
+Prototype
+   ↓
+Build
+   ↓
+Test
+   ↓
+Break
+   ↓
+Improve
+   ↓
+Ship
+```
+
+I focus on projects where I can understand not only **how to code the solution**, but also **why the system works**.
+
+---
+
+## 📊 GITHUB ACTIVITY
+
+<p align="center">
+
+<a href="https://github.com/kesivarsini-b">
+<img src="https://img.shields.io/github/followers/kesivarsini-b?style=for-the-badge&label=FOLLOWERS" />
+</a>
+
+<a href="https://github.com/kesivarsini-b?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-VIEW-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+<p align="center">
+
+<b>↓ My contribution activity lives directly on my GitHub profile ↓</b>
+
+</p>
+
+---
+
+## 🎯 DIRECTION
+
+**AI/ML Engineering → MLOps → Intelligent Products**
+
+Exploring the intersection of:
+
+`Artificial Intelligence` · `Machine Learning` · `Cybersecurity` · `Data` · `Software Engineering`
+
+---
+
+## 🤝 CONNECT
+
+<p align="center">
+
+<a href="https://github.com/kesivarsini-b">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/kesivarsini-b-956b9637b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://kesivarsini-b.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### `Build → Experiment → Learn → Build Better.`
+
+⭐ Thanks for visiting my profile.
+
+</p>
