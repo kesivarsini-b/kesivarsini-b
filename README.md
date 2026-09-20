@@ -6,7 +6,7 @@
 
 <b>Building practical systems at the intersection of AI, security & software.</b>
 
-<br><br>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Cybersecurity+%7C+Software+Engineering;Building+real+systems%2C+not+just+demos.;From+ideas+to+working+products.;Learn.+Build.+Break.+Improve." alt="Typing Animation" />
 
